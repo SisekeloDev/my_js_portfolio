@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+}
+#error {
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+    display: none;
+}
+
+#result {
+    padding: 20px;
+}
+#idCheck{
+    padding: 20px;
+}
+
+p {
+    display: block;
+    text-align: left;
+}
+
+input, select {
+    width: 100px;
+}
